@@ -46,3 +46,4 @@ print(predictive_interval)
 confidence_interval = interval.Interval(average - 2*standart_deviation_average, average + 2*standart_deviation_average)
 print(confidence_interval)
 
+print(2*standart_deviation)
